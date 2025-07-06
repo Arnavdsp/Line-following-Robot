@@ -61,4 +61,4 @@ The project covers the complete development cycle: hardware assembly, sensor int
 
 ## Code Walkthrough
 
-> File: `line_following_robot.ino`
+> File: `robot.ino`
