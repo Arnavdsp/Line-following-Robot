@@ -62,3 +62,18 @@ The project covers the complete development cycle: hardware assembly, sensor int
 ## Code Walkthrough
 
 > File: `robot.ino`
+## Components Walkthrough
+
+> File: `Components.pdf'
+
+## Results
+
+> File: `results.mp4'
+
+## How to Run
+### Setup
+> Clone the Repository
+   ```bash
+git clone https://github.com/your-username/line-following-robot.git
+
+cd line-following-robot.git
