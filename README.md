@@ -64,7 +64,11 @@ The project covers the complete development cycle: hardware assembly, sensor int
 > File: `robot.ino`
 ## Components Walkthrough
 
-> File: `Components.pdf'
+> File: chasis
+
+> File: Wheels
+
+> File: Arduino Board and 5 IR Sensor Array
 
 ## Results
 
