@@ -78,6 +78,6 @@ The project covers the complete development cycle: hardware assembly, sensor int
 ### Setup
 > Clone the Repository
    ```bash
-git clone https://github.com/your-username/line-following-robot.git
+git clone https://github.com/your-username/Line-following-Robot.git
 
-cd line-following-robot.git
+cd Line-following-Robot.git
